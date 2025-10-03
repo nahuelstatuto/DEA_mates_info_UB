@@ -3,6 +3,13 @@
   display: none !important;
 }
 
+/* Ocultar footer "Made with MyST" */
+.sidebar .sidebar-footer, 
+.myst-sidebar .sidebar-footer, 
+.myst-sidebar-footer {
+  display: none !important;
+}
+
 /* Añadir nuestro propio footer en la barra lateral */
 .custom-sidebar-footer {
   text-align: center;

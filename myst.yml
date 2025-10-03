@@ -19,7 +19,8 @@ site:
       <div class="custom-sidebar-footer">
         <img src="images/logo.png" alt="UB Logo" width="40" style="display:block; margin:0 auto 6px auto;"/>
         <strong>DEA · Universitat de Barcelona</strong><br/>
-        <a href="ht
+        <a href="https://www.ub.edu" target="_blank">🌍 Web UB</a>
+      </div>
   actions:
     - title: Learn More
       url: https://mystmd.org/guide
