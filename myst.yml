@@ -6,8 +6,9 @@ project:
   github: https://github.com/jupyter-book/mystmd-quickstart
   toc:
     - file: index.md
-    - file: 01-paper.md
-
+    - file: guia_learning_agreement_dea.md
+    - file: recursos.md
+    
 site:
   template: book-theme
   options:
@@ -22,5 +23,5 @@ site:
         <a href="https://www.ub.edu" target="_blank">🌍 Web UB</a>
       </div>
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: ORI UB
+      url: https://mat.ub.edu/matapps/ori/
