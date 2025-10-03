@@ -1,0 +1,21 @@
+/* Ocultar el footer por defecto "Made with MyST" */
+.myst-sidebar-footer {
+  display: none !important;
+}
+
+/* Añadir nuestro propio footer en la barra lateral */
+.custom-sidebar-footer {
+  text-align: center;
+  font-size: 0.85em;
+  line-height: 1.4;
+  padding: 10px;
+  background: #004080;   /* blau UB */
+  color: white;
+  border-radius: 6px;
+  margin: 10px;
+}
+
+.custom-sidebar-footer a {
+  color: #ffffff;
+  text-decoration: underline;
+}
