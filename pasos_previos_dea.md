@@ -11,10 +11,10 @@ Es fundamental conocer el contenido, los créditos y la carga lectiva.
 
 ---
 
-## 2️⃣ Definir si quieres convalidarlas como OB o OPT
+## 2️⃣ Definir si quieres convalidarlas como OBL o OPT
 Decide si las asignaturas que cursarás en el extranjero serán convalidadas como:
 
-- **OB (Obligatorias)** → requieren una equivalencia razonable con una asignatura de tu grado (Matemáticas o Informática UB).  
+- **OBL (Obligatorias)** → requieren una equivalencia razonable con una asignatura de tu grado (Matemáticas o Informática UB).  
 - **OPT (Optativas)** → no necesitan equivalencia directa, pero deben estar dentro del ámbito de la titulación.
 
 ---
