@@ -6,7 +6,7 @@ project:
   github: https://github.com/jupyter-book/mystmd-quickstart
   toc:
     - file: index.md
-    - file: guia_learning_agreement_dea.md
+    - file: pasos_previos_dea.md
     - file: recursos.md
     
 site:
