@@ -38,7 +38,7 @@ Si deseas convalidar una **OB**, busca una asignatura **obligatoria** de la UB (
 ```{admonition} Revisión del temario ⚠️
 :class: warning
 **Revisa con detalle los programas docentes.**  
-Si el solapamiento entre ambas asignaturas (la de destino y la de la UB) es **menor al 50–60 %**, no será posible la convalidación.
+Si el solapamiento entre ambas asignaturas (la de destino y la de la UB) es **menor al 50–60 %**, no será posible la convalidación. Este valor es orientativo y la decisión final recaerá sobre los responsables de cada grado.
 ```
 
 ---
