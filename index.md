@@ -1,6 +1,6 @@
-# 🌍 Movilidad Internacional – UB
+# 🌍 Mobilitat Internacional – UB
 
-Bienvenido/a al portal de **ayuda para generar el fichero DEA**. Aquí encontrarás toda la información esencial sobre el **Documento de Equivalencia Académica (DEA)**: qué es, cómo tramitarlo y a quién contactar.
+Benvingut/da al portal d’**ajuda per generar el fitxer DEA**. Aquí hi trobaràs tota la informació essencial sobre el **Document d’Equivalència Acadèmica (DEA)**: què és, com tramitar-lo i amb qui contactar.
 
 ---
 
@@ -9,38 +9,33 @@ Bienvenido/a al portal de **ayuda para generar el fichero DEA**. Aquí encontrar
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">
-  <h3>📘 Guía completa</h3>
-  <p>Consulta los pasos previos y una guía detallada para rellenar el DEA, con explicaciones, consejos y (algo de) normativa.</p>
-  <a href="pasos_previos_dea.md"
-     style="display:inline-block; background:#008060; color:white; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:600; box-shadow:1px 1px 4px rgba(0,0,0,0.15); transition:background 0.2s;"
-     onmouseover="this.style.background='#009970';"
-     onmouseout="this.style.background='#008060';">
-     ✅ Ver pasos previos
-  </a>
-</div>
+    <h3>📘 Guia completa</h3>
+    <p>Consulta els passos previs i una guia detallada per omplir el DEA, amb explicacions, consells i (una mica de) normativa.</p>
+    <a class="btn btn--primary" href="pasos_previos_dea.md">✅ Veure passos previs</a>
 
+  </div>
 
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">
-    <h3>🖼️ Infografía</h3>
-    <p>Accede a un esquema visual del proceso: desde la propuesta inicial hasta el reconocimiento final de créditos.</p>
-    <a href="images/infografia_learning_agreement_dea.png" style="background:#008060; color:white; padding:8px 14px; border-radius:6px; text-decoration:none;">Ver infografía</a>
+    <h3>🖼️ Infografia</h3>
+    <p>Accedeix a un esquema visual del procés: des de la proposta inicial fins al reconeixement final de crèdits.</p>
+    <a href="images/infografia_learning_agreement_dea.png" style="background:#008060; color:white; padding:8px 14px; border-radius:6px; text-decoration:none;">Veure infografia</a>
   </div>
 
   <div style="flex: 1; min-width: 250px; border: 1px solid #ddd; border-radius: 12px; padding: 20px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">
     <h3>📊 Recursos</h3>
-    <p>Material de apoyo: normativa completa, links a modelos de documentos y enlaces de interés.</p>
-    <a href="recursos.md" style="background:#800040; color:white; padding:8px 14px; border-radius:6px; text-decoration:none;">Acceder</a>
+    <p>Material de suport: normativa completa, enllaços a models de documents i recursos d’interès.</p>
+    <a href="recursos.md" style="background:#800040; color:white; padding:8px 14px; border-radius:6px; text-decoration:none;">Accedir</a>
   </div>
 
 </div>
 
 ---
 
-## 📌 Contacto y soporte
+## 📌 Contacte i suport
 
-¿Dudas sobre tu movilidad?
+Dubtes sobre la teva mobilitat?
 
-- 🌐 [**Oficina de Movilidad Internacional (OMI-UB)**](https://mat.ub.edu/matapps/ori/)
-- 👤 **Responsable de Movilidad Internacional del centro**: Anna Puig Puig
-- 👤 **Convalidaciones del área de informática:** Julio C. Silveira Jacques-Junior
-- 👤 **Convalidaciones del área de matemáticas:** Nahuel Norberto Statuto Perez
+- 🌐 [**Oficina de Mobilitat Internacional (OMI-UB)**](https://mat.ub.edu/matapps/ori/)
+- 👤 **Responsable de Mobilitat Internacional del centre**: Anna Puig Puig
+- 👤 **Convalidacions de l’àrea d’informàtica:** Julio C. Silveira Jacques-Junior
+- 👤 **Convalidacions de l’àrea de matemàtiques:** Nahuel Norberto Statuto Perez

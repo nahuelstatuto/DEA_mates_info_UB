@@ -1,28 +1,4 @@
-/* Ocultar el footer por defecto "Made with MyST" */
-.myst-sidebar-footer {
-  display: none !important;
-}
-
-/* Ocultar footer "Made with MyST" */
-.sidebar .sidebar-footer, 
-.myst-sidebar .sidebar-footer, 
-.myst-sidebar-footer {
-  display: none !important;
-}
-
-/* Añadir nuestro propio footer en la barra lateral */
-.custom-sidebar-footer {
-  text-align: center;
-  font-size: 0.85em;
-  line-height: 1.4;
-  padding: 10px;
-  background: #004080;   /* blau UB */
-  color: white;
-  border-radius: 6px;
-  margin: 10px;
-}
-
-.custom-sidebar-footer a {
-  color: #ffffff;
-  text-decoration: underline;
-}
+.btn{display:inline-block; color:#fff; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:600; box-shadow:1px 1px 4px rgba(0,0,0,.15); transition:background .2s;}
+.btn--primary{background:#008060;}
+.btn--primary:hover,.btn--primary:focus{background:#009970; outline:2px solid transparent; outline-offset:2px;}
+.btn--accent{background:#800040;}

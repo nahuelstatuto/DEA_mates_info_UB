@@ -1,23 +1,24 @@
-# MyST Quickstart
+# Guia DEA — Mobilitat Internacional (UB)
 
-[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+Aquest projecte és un **llibre web en Jupyter Book** que ajuda l’estudiantat de la UB a **preparar i emplenar el Document d’Equivalència Acadèmica (DEA)**, des dels passos previs fins als tràmits posteriors, amb exemples i recursos oficials.
 
-This repository contains the files used in the [quickstart guide](https://mystmd.org/guide/quickstart), and can be used to follow that guide, before trying MyST with your own content.
+## ✨ Què hi trobaràs
+- **Pas a pas** per definir assignatures i verificar convalidacions.  
+- **Guia d’emplenament del DEA** amb captures i consells.  
+- **Casuística d’exemples (1×1, 2×1, etc.)** per equilibrar continguts i crèdits.  
+- **Recursos i contactes** oficials per resoldre dubtes ràpidament.
 
-> **Note** This is **not** a good example of an actual MyST project! The repositories purpose is to be a simple markdown + notebook repository that can be transformed throughout a tutorial.
+## 📁 Estructura de pàgines
+- `index.md` — Portada i enllaços principals.  
+- `pasos_previos_dea.md` — Passos previs a l’emplenament.  
+- `dea_paso_a_paso.md` — Guia per omplir el DEA amb exemples.  
+- `next_steps.md` — Què fer amb el DEA ja signat (i com gestionar canvis).  
+- `recursos.md` — Enllaços, documents i contacte.
 
-The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) are:
+## 👥 Qui ha creat aquesta web
 
-1. Create a `myst` site, using the standard template
-2. Improve the frontmatter, to add authors, affiliations and other metadata
-3. Export the paper as a PDF, Word document, and LaTeX files
-4. Integrate a Jupyter Notebook output into our paper, to improve reproducibility
-5. Publish a website of with our work 🚀
+Aquesta web ha estat elaborada per *Nahuel Statuto (Dept. de Matemàtiques i Informàtica, UB)* i *Julio C. Silveira Jacques-Junior (Dept. de Matemàtiques i Informàtica, UB)* com a guia pràctica per preparar el **DEA (Document d’Equivalència Acadèmica)** en programes de mobilitat.
 
-## Improving Frontmatter and MyST Site
+> **Avís:** Aquest lloc té caràcter orientatiu. La validació final de les convalidacions correspon a les comissions acadèmiques i a les oficines de relacions internacionals de cada estudi.
 
-![](./images/frontmatter-after.png)
-
-## Export as a PDF
-
-![](./images/export-pdf.png)
+**Contacte:** [https://github.com/nahuelstatuto/DEA_mates_info_UB](https://github.com/nahuelstatuto/DEA_mates_info_UB)

@@ -1,26 +1,28 @@
 # 📊 Recursos
 
-En esta sección encontrarás material de apoyo, enlaces útiles y documentos descargables para preparar tu movilidad internacional.
+En aquesta secció trobaràs material de suport, enllaços útils i documents descarregables per preparar la teva mobilitat internacional.
 
 ---
 
-## 🔗 Enlaces oficiales UB
+## 🔗 Enllaços oficials UB
 
-- 🏛️ [Oficina de Movilidad Internacional – UB FME](https://mat.ub.edu/matapps/ori/)  
-- 📑 [Normativa de movilidad internacional de estudiantes UB (PDF)](https://mat.ub.edu/matapps/ori/com-marxar/normativa/)
-
----
-
-## 📘 Documentos descargables
-
-- 🖼️ [Infografía esquemática del proceso (png)](images/infografia_learning_agreement_dea.png)  
-- 📑 [Modelo oficial de Documento de Equivalencia Académica (DEA)](https://mat.ub.edu/matapps/ori/com-marxar/documentacio-academica/)
-- 📑 [Ejemplo de DEA firmado](files/ejemplo_dea.pdf)
+- 🏛️ [Oficina de Mobilitat Internacional – UB FME](https://mat.ub.edu/matapps/ori/)  
+- 📑 [Normativa de mobilitat internacional d’estudiants UB](https://mat.ub.edu/matapps/ori/com-marxar/normativa/)
 
 ---
 
-<div align="center">
+## 📘 Documents descarregables
 
-✨ *Todos los recursos en un solo lugar para que tu movilidad internacional sea un éxito* ✨
+- 🖼️ [Infografia esquemàtica del procés (png)](images/infografia_learning_agreement_dea.png)  
+- 📑 [Model oficial de Document d’Equivalència Acadèmica (DEA)](https://mat.ub.edu/matapps/ori/com-marxar/documentacio-academica/)
 
-</div>
+---
+
+## 📌 Contacte i suport
+
+Dubtes sobre la teva mobilitat?
+
+- 🌐 [**Oficina de Mobilitat Internacional (OMI-UB)**](https://mat.ub.edu/matapps/ori/)
+- 👤 **Responsable de Mobilitat Internacional del centre**: Anna Puig Puig
+- 👤 **Convalidacions de l’àrea d’informàtica:** Julio C. Silveira Jacques-Junior
+- 👤 **Convalidacions de l’àrea de matemàtiques:** Nahuel Norberto Statuto Perez

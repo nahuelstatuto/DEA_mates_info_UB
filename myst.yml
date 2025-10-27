@@ -8,6 +8,7 @@ project:
     - file: index.md
     - file: pasos_previos_dea.md
     - file: dea_paso_a_paso.md
+    - file: next_steps.md
     - file: recursos.md
     
 site:
