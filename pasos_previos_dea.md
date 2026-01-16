@@ -82,12 +82,12 @@ Per emplenar el pre-DEA hauràs de tenir:
 
 > 🚫 Sense aquest document o sense la informació completa de cada assignatura no s’ha de continuar el procés de convalidació.
 ```
-Descarrega el fitxer [pre-DEA](files/pre-dea.xlsx)
+Descarrega el fitxer [pre-DEA](files/pre-dea.xlsx).
 
 ---
 
 ## 5️⃣ Contactar amb les persones responsables de convalidacions
-Una vegada identificades les assignatures a convalidar i amb el fitxer **pre-DEA**, has de contactar amb les persones responsables del teu grau:
+Un cop hagis **identificat les assignatures que vols convalidar** i tinguis preparat el fitxer **pre-DEA**, el següent pas és **contactar amb la persona responsable de convalidacions del teu grau**:
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -109,12 +109,26 @@ Una vegada identificades les assignatures a convalidar i amb el fitxer **pre-DEA
 
 ---
 
+### Què passarà després de contactar?
+La persona responsable del teu grau:
+
+1. **Crearà una carpeta compartida** (on es gestionarà el teu cas).
+2. **Hi afegirà el fitxer pre-DEA** i **te’l compartirà**.
+3. **Respondà directament al mateix document** amb comentaris, propostes o ajustos.
+
+A partir d’aquell moment, **tots els canvis es faran en aquest document compartit**, de manera que:
+- queda constància de les modificacions,
+- es pot veure qui ha canviat què,
+- i es manté un únic document “oficial” durant tot el procés.
+---
+
 ```{admonition} Assignatures no acceptades ⚠️
 :class: warning
-Si alguna de les assignatures no és acceptada, hi ha algunes opcions:
-1. Es pot convalidar com a assignatura optativa, que no requereix convalidació.
-2. Cercar una altra combinació d’assignatures que completi el temari o el cobreixi íntegrament.
-3. Triar una altra obligatòria a la UB per convalidar i tornar al pas 3.
+Si alguna assignatura no és acceptada, tens diverses alternatives:
+
+1. **Passar-la a optativa** (si encaixa com a crèdit optatiu),  i recorda que no requereix una convalidació estricta.
+2. **Proposar una altra combinació d’assignatures** que cobreixi millor el temari o l’equivalència.
+3. **Escollir una assignatura diferent a la UB** per convalidar i tornar al pas 3.
 
 ```
 
