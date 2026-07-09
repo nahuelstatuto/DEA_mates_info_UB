@@ -37,14 +37,14 @@ Si vols convalidar una assignatura **OBL**, primer has de buscar una assignatura
 
   <div style="flex:1; min-width:280px; border:1px solid #ccc; border-radius:12px; padding:18px; background:#f9f9f9; box-shadow:1px 1px 4px rgba(0,0,0,0.05);">
     <h3>📐 Grau en Matemàtiques</h3>
-    <p>🌐 <a href="https://mat.ub.edu/graumatematiques/" target="_blank">Web del grau en Matemàtiques</a></p>
-    <a href="https://mat.ub.edu/graumatematiques/assignatures/" style="background:#004080; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">Plans docents</a>
+    <p>🌐 <a href="https://web.ub.edu/ca/web/facultat-matematiques-informatica/w/infograu-grau-g1147" target="_blank">Web del grau en Matemàtiques</a></p>
+    <a href="https://web.ub.edu/ca/web/facultat-matematiques-informatica/w/infograu-grau-g1147?schedule" style="background:#004080; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">Plans docents</a>
   </div>
 
   <div style="flex:1; min-width:280px; border:1px solid #ccc; border-radius:12px; padding:18px; background:#f9f9f9; box-shadow:1px 1px 4px rgba(0,0,0,0.05);">
     <h3>💻 Grau en Informàtica</h3>
-    <p>🌐 <a href="https://mat.ub.edu/grauinformatica/" target="_blank">Web del grau en Informàtica</a></p>
-    <a href="https://mat.ub.edu/grauinformatica/assignatures/" style="background:#004080; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">Plans docents</a>
+    <p>🌐 <a href="https://web.ub.edu/ca/web/facultat-matematiques-informatica/w/infograu-grau-g1148" target="_blank">Web del grau en Informàtica</a></p>
+    <a href="https://web.ub.edu/ca/web/facultat-matematiques-informatica/w/infograu-grau-g1148?schedule" style="background:#004080; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">Plans docents</a>
   </div>
 
 </div>
@@ -143,7 +143,7 @@ Si has arribat fins aquí, és que tens:
 Aleshores, ja pots procedir a emplenar el document DEA.
 
 <div style="margin-top:20px; text-align:center;">
-  <a href="https://mat.ub.edu/matapps/ori/com-marxar/documentacio-academica/" style="background:#004080; color:white; padding:12px 20px; border-radius:8px; text-decoration:none; font-weight:600;">⬇️ Descarregar plantilla del DEA</a>
+  <a href="files/DEA.doc" style="background:#004080; color:white; padding:12px 20px; border-radius:8px; text-decoration:none; font-weight:600;">⬇️ Descarregar plantilla del DEA</a>
 </div>
 
 ---

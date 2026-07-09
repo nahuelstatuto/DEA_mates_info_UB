@@ -35,7 +35,7 @@ Benvingut/da al portal d’**ajuda per generar el fitxer DEA**. Aquí hi trobar�
 
 Dubtes sobre la teva mobilitat?
 
-- 🌐 [**Oficina de Mobilitat Internacional (OMI-UB)**](https://mat.ub.edu/matapps/ori/)
+- 🌐 [**Oficina de Mobilitat Internacional (OMI-UB)**](https://web.ub.edu/ca/web/facultat-matematiques-informatica/oficina-relacions-internacionals)
 - 👤 **Responsable de Mobilitat Internacional del centre**: Anna Puig Puig
 - 👤 **Convalidacions de l’àrea d’informàtica:** Julio C. Silveira Jacques-Junior
 - 👤 **Convalidacions de l’àrea de matemàtiques:** Nahuel Norberto Statuto Perez

@@ -2,8 +2,8 @@
 
 Una vegada tens el DEA signat pels responsables del teu grau:
 
-1. Envia el DEA signat a l’[ORI](https://mat.ub.edu/matapps/ori/com-marxar/oficina-de-relacions-internacionals-ori-de-la-facultat/)  
-2. Accedeix al [SOP](https://mat.ub.edu/matapps/ori/com-marxar/aplicatiu-de-gestio-de-mobilitatsop/), completa el **Learning Agreement** (LA) i signa’l.
+1. Envia el DEA signat a l’[ORI](https://web.ub.edu/ca/web/facultat-matematiques-informatica/mobilitat-estudiants-de-la-ub)  
+2. Accedeix al [SOP](https://www.service4mobility.com/europe/LoginServlet?sprache=en), completa el **Learning Agreement** (LA) i signa’l.
 
 Per a qualsevol altre dubte, accedeix al portal de l’[ORI o contacta’ns](recursos.md)
 
